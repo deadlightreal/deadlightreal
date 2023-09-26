@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @deadlightreal
+- 👀 I’m interested in mtb and coding
+- 🌱 I’m currently learning php and mySQL
+- 📫 How to reach me: discord-deadlightreal
