@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadlightreal" alt="deadlightreal" /></a> </p>
 
-- 🔭 I’m currently working on [byte-lang](https://github.com/deadlightreal/byte-lang)
+- 🔭 I’m currently working on Video Game (Private Repo)
 
-- 🌱 I’m currently learning **assembly**
+- 🌱 I’m currently learning **c++ OpenGL**
 
 - 📫 How to reach me **richardfabianmain@gmail.com**
 
