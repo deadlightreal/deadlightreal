@@ -9,4 +9,4 @@
 
 - 🌱 I’m currently learning **Socket Programming**
 
-- 📫 How to reach me **deadlightreal@tutamail.com / https://t.me/deadlightreal**
+- 📫 How to reach me **https://t.me/deadlightreal**
